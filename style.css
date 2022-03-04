@@ -1,0 +1,31 @@
+.label{
+    -fx-padding: 10;
+    -fx-margin: 5;
+}
+
+.label:hover{
+    -fx-border-color: red;
+    -fx-border-width: 5;    
+}
+
+#l1{
+    -fx-background-color: red;
+}
+
+#l2{
+    -fx-font-size: 30;
+}
+
+#l3{
+    -fx-text-fill: yellow;
+    -fx-background-color: black;
+}
+
+#l4{
+    -fx-text-fill: greenyellow;
+}
+
+#l4:hover{
+    -fx-background-color: #555;
+}
+
